@@ -1,29 +1,31 @@
 ## Welcome to Beverly's GitHub Pages
 
+### Project Highlight
+
+#### 1. [NBA Team Valuation](https://github.com/BeverlyHuang/EDA-on-NBA-Team-Valuation)
+<img src="https://cdn.nba.net/nba-drupal-prod/2017-08/SEO-image-NBA-logoman.jpg" alt="NBA" width="350" height="200">
+
+#### 2. [Exploring Zillow](https://github.com/BeverlyHuang/Explore-Zillow)
+<img src="https://cdn.vox-cdn.com/thumbor/z8CNaf1y9dNAtx7YDOnCPGrQSPI=/0x0:6714x3944/1200x800/filters:focal(2580x771:3654x1845)/cdn.vox-cdn.com/uploads/chorus_image/image/59380133/shutterstock_555325381.0.jpg" alt="Zillow" width="350" height="200">
+
+#### 3. [World Food Clustering](https://github.com/BeverlyHuang/World-Food-Clustering)
+<img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/1325A/production/_88762487_junk_food.jpg" alt="Food" width="350" height="200">
+
+#### 4. [Mobile Pricing](https://github.com/BeverlyHuang/mobile_price)
+<img src="https://stylesage.co/blog/content/images/2018/05/Perezbox-Pricing.jpg" alt="Food" width="350" height="200">
+
+#### 5. [Movie Recommendation](https://github.com/BeverlyHuang/Netflix-Movie-recommendation)
+<img src="https://cdn20.patchcdn.com/users/22924509/20180619/041753/styles/T800x600/public/processed_images/jag_cz_movie_theater_retro_shutterstock_594132752-1529438777-6045.jpg" alt="Movie" width="350" height="200">
+
+#### 6. [Sentiment Analysis](https://github.com/BeverlyHuang/sentiment_analysis)
+<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/08/Slider-Sentiment-468x340.png" alt="Sentiment" width="350" height="200">
+
+
+
+
 You can use the [editor on GitHub](https://github.com/BeverlyHuang/beverlyhuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Project Highlight
-
-##### 1. [NBA Team Valuation](https://github.com/BeverlyHuang/EDA-on-NBA-Team-Valuation)
-<img src="https://cdn.nba.net/nba-drupal-prod/2017-08/SEO-image-NBA-logoman.jpg" alt="NBA" width="350" height="200">
-
-##### 2. [Exploring Zillow](https://github.com/BeverlyHuang/Explore-Zillow)
-<img src="https://cdn.vox-cdn.com/thumbor/z8CNaf1y9dNAtx7YDOnCPGrQSPI=/0x0:6714x3944/1200x800/filters:focal(2580x771:3654x1845)/cdn.vox-cdn.com/uploads/chorus_image/image/59380133/shutterstock_555325381.0.jpg" alt="Zillow" width="350" height="200">
-
-##### 3. [World Food Clustering](https://github.com/BeverlyHuang/World-Food-Clustering)
-<img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/1325A/production/_88762487_junk_food.jpg" alt="Food" width="350" height="200">
-
-##### 4. [Mobile Pricing](https://github.com/BeverlyHuang/mobile_price)
-<img src="https://stylesage.co/blog/content/images/2018/05/Perezbox-Pricing.jpg" alt="Food" width="350" height="200">
-
-##### 5. [Movie Recommendation](https://github.com/BeverlyHuang/Netflix-Movie-recommendation)
-<img src="https://cdn20.patchcdn.com/users/22924509/20180619/041753/styles/T800x600/public/processed_images/jag_cz_movie_theater_retro_shutterstock_594132752-1529438777-6045.jpg" alt="Movie" width="350" height="200">
-
-##### 6. [Sentiment Analysis](https://github.com/BeverlyHuang/sentiment_analysis)
-<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/08/Slider-Sentiment-468x340.png" alt="Sentiment" width="350" height="200">
-
 
 ```markdown
 Syntax highlighted code block
