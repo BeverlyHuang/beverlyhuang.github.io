@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: byuhuang@ucdavis.edu
+      url: mailto:byuhuang@ucdavis.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
