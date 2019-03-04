@@ -1,8 +1,8 @@
 ---
 layout: archives
-permalink: /machinelearning/
+permalink: /machine-learning/
 title: "Machine Learning Posts by Tags"
-author_profile: structured
+author_profile: true
 header:
   image: "/images/bg2.jpeg"
 ---
