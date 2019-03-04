@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/bev_prof.jpeg"
+  image: "/images/bg1.jpeg"
 ---
 
 I am a cross-functional Master of Business Analytics candidate at UC Davis with a passion for analyzing data and extracting insights.
