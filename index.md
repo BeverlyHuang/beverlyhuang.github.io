@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Project Highlight
 
-##### 1. [NBA_Team_Valuation](https://github.com/BeverlyHuang/EDA-on-NBA-Team-Valuation)
+##### 1. [NBA Team Valuation](https://github.com/BeverlyHuang/EDA-on-NBA-Team-Valuation)
 <img src="https://cdn.nba.net/nba-drupal-prod/2017-08/SEO-image-NBA-logoman.jpg" alt="NBA" width="350" height="200">
 
-##### 2. [Exploring Zilloww](https://github.com/BeverlyHuang/Explore-Zillow)
+##### 2. [Exploring Zillow](https://github.com/BeverlyHuang/Explore-Zillow)
 <img src="https://cdn.vox-cdn.com/thumbor/z8CNaf1y9dNAtx7YDOnCPGrQSPI=/0x0:6714x3944/1200x800/filters:focal(2580x771:3654x1845)/cdn.vox-cdn.com/uploads/chorus_image/image/59380133/shutterstock_555325381.0.jpg" alt="Zillow" width="350" height="200">
 
 ##### 3. [World Food Clustering](https://github.com/BeverlyHuang/World-Food-Clustering)
