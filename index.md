@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Beverly's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BeverlyHuang/beverlyhuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Highlight
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### 1. [NBA_Team_Valuation](https://github.com/BeverlyHuang/EDA-on-NBA-Team-Valuation)
+<img src="https://cdn.nba.net/nba-drupal-prod/2017-08/SEO-image-NBA-logoman.jpg" alt="NBA" width="350" height="200">
+
+
 
 ```markdown
 Syntax highlighted code block
